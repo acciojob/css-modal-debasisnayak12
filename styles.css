@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.modal-header{
+	background-color:lightgreen;
+	color:white;
+}
+.modal-content{
+	padding:20px;
+	border-radius:5px;
+}
+
